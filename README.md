@@ -22,5 +22,5 @@ Python 2.7 + Keras 2.2.4 + Tensorflow 1.8，其中关系最大的应该是Python
 欢迎入坑Keras。人生苦短，我用Keras～
 
 ## 详细介绍
-https://kexue.fm/archives/6671
+https://github.com/bojone/bert_in_keras/blob/master/relation_extract.py
 
